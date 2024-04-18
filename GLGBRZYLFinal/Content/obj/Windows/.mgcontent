@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/gaspa/OneDrive/Área de Trabalho/Conestoga/Game Programming/final project/Final Project/GLGBRZYLFinal/GLGBRZYLFinal/Content/backgroundImg.png</File>
+    <File>C:/Users/gaspa/OneDrive/Área de Trabalho/Conestoga/Game Programming/final project/Final Project/GLGBRZYLFinal/GLGBRZYLFinal/Content/Blade.png</File>
+    <File>C:/Users/gaspa/OneDrive/Área de Trabalho/Conestoga/Game Programming/final project/Final Project/GLGBRZYLFinal/GLGBRZYLFinal/Content/BMG.wav</File>
+    <File>C:/Users/gaspa/OneDrive/Área de Trabalho/Conestoga/Game Programming/final project/Final Project/GLGBRZYLFinal/GLGBRZYLFinal/Content/Bomb.png</File>
+    <File>C:/Users/gaspa/OneDrive/Área de Trabalho/Conestoga/Game Programming/final project/Final Project/GLGBRZYLFinal/GLGBRZYLFinal/Content/Controls/Button.png</File>
+    <File>C:/Users/gaspa/OneDrive/Área de Trabalho/Conestoga/Game Programming/final project/Final Project/GLGBRZYLFinal/GLGBRZYLFinal/Content/Explosion.png</File>
+    <File>C:/Users/gaspa/OneDrive/Área de Trabalho/Conestoga/Game Programming/final project/Final Project/GLGBRZYLFinal/GLGBRZYLFinal/Content/File.spritefont</File>
+    <File>C:/Users/gaspa/OneDrive/Área de Trabalho/Conestoga/Game Programming/final project/Final Project/GLGBRZYLFinal/GLGBRZYLFinal/Content/gameOver.wav</File>
+    <File>C:/Users/gaspa/OneDrive/Área de Trabalho/Conestoga/Game Programming/final project/Final Project/GLGBRZYLFinal/GLGBRZYLFinal/Content/HitSound.wav</File>
+    <File>C:/Users/gaspa/OneDrive/Área de Trabalho/Conestoga/Game Programming/final project/Final Project/GLGBRZYLFinal/GLGBRZYLFinal/Content/Icon.png</File>
+    <File>C:/Users/gaspa/OneDrive/Área de Trabalho/Conestoga/Game Programming/final project/Final Project/GLGBRZYLFinal/GLGBRZYLFinal/Content/jumpSound.wav</File>
+    <File>C:/Users/gaspa/OneDrive/Área de Trabalho/Conestoga/Game Programming/final project/Final Project/GLGBRZYLFinal/GLGBRZYLFinal/Content/lives.spritefont</File>
+    <File>C:/Users/gaspa/OneDrive/Área de Trabalho/Conestoga/Game Programming/final project/Final Project/GLGBRZYLFinal/GLGBRZYLFinal/Content/Player.png</File>
+    <File>C:/Users/gaspa/OneDrive/Área de Trabalho/Conestoga/Game Programming/final project/Final Project/GLGBRZYLFinal/GLGBRZYLFinal/Content/Title.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
